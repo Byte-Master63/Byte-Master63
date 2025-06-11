@@ -9,7 +9,7 @@
 
 I'm a code-slingin', football-lovin', music-bumpin' dev-in-the-making who lives for clean architecture and solving real problems with code.
 
-- 💻 Currently mastering: **Software Engineerin, specializing in Back-end Development**
+- 💻 Currently mastering: **Software Engineering, specializing in Back-end Development**
 - 🛠️ Languages I speak: **Python**, **JavaScript**, **C**, and a bit of **Bash**
 - 🧠 Always learning: **Flask**, **React**, **APIs**, **SQL**, and the art of *clean code*
 - 🧩 Coding Philosophy: *“Keep it simple, make it powerful”*
