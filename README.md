@@ -10,7 +10,7 @@
 I'm a passionate software engineering student at **ALX Africa**, working towards becoming a **full-stack developer**.  
 I enjoy building efficient, clean, and scalable applications using modern tools and frameworks.
 
-<<<<<<< HEAD
+
 - 🔭 Currently focused on **Flask**, **React**, and **API development**
 - 🧠 Exploring advanced concepts in **C/C++**, **asynchronous programming**, and **software architecture**
 - ⚽ Outside of code, I’m into football, music, and storytelling through film
@@ -20,7 +20,7 @@ I enjoy building efficient, clean, and scalable applications using modern tools 
 - 🧠 Always learning: **Flask**, **React**, **APIs**, **SQL**, and the art of *clean code*
 - 🧩 Coding Philosophy: *“Keep it simple, make it powerful”*
 - 🕹️ Side quests: Watching epic dramas, vibing to dope beats, and catching football matches
->>>>>>> a310489badb3784214d1b58bf451be043808e7d7
+
 
 ---
 
