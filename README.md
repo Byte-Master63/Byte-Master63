@@ -1,69 +1,68 @@
-<h1 align="center">Hello World! I'm Thokozane Tshabalala, I go by the tag Byte-Master63 👨🏾‍💻</h1>
+<h1 align="center">Hi, I'm Thokozane Tshabalala and I go by the tag Byte-Master63 👨🏾‍💻</h1>
 <p align="center">
-  Full-Stack Dev in Progress 🚀 | Software Engineering Student @ ALX Africa 🌍 | Pretoria Based 🇿🇦
+  Software Engineering Student | Aspiring Full-Stack Developer | Based in Pretoria, South Africa 🇿🇦
 </p>
 
 ---
 
-### 👋🏾 Who is this?
+### 👨🏾‍💻 About Me
 
-I'm a code-slingin', football-lovin', music-bumpin' dev-in-the-making who lives for clean architecture and solving real problems with code.
+I'm a passionate software engineering student at **ALX Africa**, working towards becoming a **full-stack developer**.  
+I enjoy building efficient, clean, and scalable applications using modern tools and frameworks.
 
-- 💻 Currently mastering: **Software Engineerin, specializing in Back-end Development**
-- 🛠️ Languages I speak: **Python**, **JavaScript**, **C**, and a bit of **Bash**
-- 🧠 Always learning: **Flask**, **React**, **APIs**, **SQL**, and the art of *clean code*
-- 🧩 Coding Philosophy: *“Keep it simple, make it powerful”*
-- 🕹️ Side quests: Watching epic dramas, vibing to dope beats, and catching football matches
-
----
-
-### 🧰 Tech Toolbox
-
-Here's what’s usually in my terminal window:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🔭 Currently focused on **Flask**, **React**, and **API development**
+- 🧠 Exploring advanced concepts in **C/C++**, **asynchronous programming**, and **software architecture**
+- ⚽ Outside of code, I’m into football, music, and storytelling through film
 
 ---
 
-### 🚀 Projects That Slap
+### 🧰 Tech Stack
 
-A few things I’ve built or am working on 🔥
+**Languages**  
+`Python` • `JavaScript` • `C` • `Bash` • `HTML/CSS`
 
-- ⚙️ [`mace`](https://github.com/Byte-Master63/mace): Asynchronous C++ tools with actor-based RPCs
-- 🌍 [`bytemaster.github.io`](https://github.com/Byte-Master63/bytemaster.github.io): My blog & dev journal – check the vibes
-- 🧪 [`dev`](https://github.com/Byte-Master63/dev): Boost-powered developer environment setup
+**Frameworks & Tools**  
+`Flask` • `React` • `Node.js` • `Git` • `Linux` • `SQLite` • `VS Code`  
 
-➡️ More magic in the [repos tab](https://github.com/Byte-Master63?tab=repositories)
+**Currently Learning**  
+`Docker` • `JWT Authentication` • `MongoDB` • `Advanced React Patterns`
 
 ---
 
-### 📊 Stats, Because Why Not
+### 📌 Featured Projects
+
+- **[Mace](https://github.com/Byte-Master63/mace)**  
+  Modern asynchronous tools in C++ with an actor-based RPC system
+
+- **[Personal Blog](https://bytemaster.github.io)**  
+  My dev journal, project breakdowns, and thoughts on software, tech, and learning
+
+- **[Dev Setup](https://github.com/Byte-Master63/dev)**  
+  Custom C++ development environment using Boost, scripts, and modular tooling
+
+For more, check out my full list of [repositories →](https://github.com/Byte-Master63?tab=repositories)
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byte-Master63&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Master63&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Byte-Master63&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Master63&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📬 Let’s Connect
+### 📫 Get in Touch
 
 - 📧 Email: `thokozanetek@gmail.com`
 - 🌐 Blog: [bytemaster.github.io](https://bytemaster.github.io)
-- 🧠 Let's collab on something cool or just chat dev life
+
+I'm open to internships, collaborations, and opportunities to contribute to impactful software projects.
 
 ---
 
 <p align="center">
-  <em>"Talk is cheap. Show me the code." – Linus Torvalds</em><br>
-  <sub>– Or at least a well-documented GitHub repo 😅</sub>
+  <em>“The best way to predict the future is to build it.” – Alan Kay</em>
 </p>
 
