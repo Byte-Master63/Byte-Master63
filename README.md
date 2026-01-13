@@ -1,76 +1,51 @@
-<h1 align="center">Hi, I'm Thokozane Tshabalala and I go by the tag Byte-Master63 👨🏾‍💻</h1>
-<p align="center">
-  Software Engineering Student | Aspiring Full-Stack Developer | Based in Pretoria, South Africa 🇿🇦
-</p>
+# Thokozane Tshabalala – Software Engineering Portfolio
+
+## 👋 About Me
+I am a motivated software engineering graduate from **ALX Africa** with hands-on experience in full-stack web development. Throughout the program, I gained practical skills in building backend systems, APIs, and interactive frontend applications. I enjoy solving real-world problems through clean, maintainable code and continuously learning new technologies.
+
+## 🎓 About ALX Software Engineering Program
+The **ALX Software Engineering (SWE) program** is a 12-month intensive, project-based training designed to prepare graduates for careers in software development. The program covers **full-stack web development, system engineering, DevOps, data structures & algorithms, and collaborative software development**. Participants work on real-world projects using industry-standard tools and workflows.
+
+## 💻 Skills & Expertise
+
+### Programming Languages
+- Python, JavaScript, C
+
+### Backend Development
+- Flask, RESTful APIs, JWT Authentication
+- Node.js (basic)
+
+### Frontend Development
+- React
+- HTML5, CSS3
+- Responsive UI development
+
+### Databases
+- SQL (MySQL, PostgreSQL)
+
+### Tools & Technologies
+- Git & GitHub
+- Linux / Ubuntu
+- VS Code
+- Postman
+
+### Software Engineering Practices
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Agile Development Workflows
+- Debugging & Testing
+
+## 🏗 Projects & Challenges
+- **Flask Authentication System**: Built a full-stack user authentication system with JWT-based login, registration, and role-based access control.  
+- **2D Maze Game Engine (C, SDL2)**: Developed a raycasting-based maze engine implementing modular design and memory management.  
+- **Microsoft 365 Copilot Use Case Challenge (3 Weeks)**: Designed productivity workflows using AI-assisted tools for real-world business use cases.
+
+## 📫 Contact Me
+- **Cellphone:** 0793859541  
+- **Email:** thokozanetek@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/thokozane-tshabalala-2579a9217](https://www.linkedin.com/in/thokozane-tshabalala-2579a9217)
 
 ---
 
-### 👨🏾‍💻 About Me
-
-I'm a passionate software engineering student at **ALX Africa**, working towards becoming a **full-stack developer**.  
-I enjoy building efficient, clean, and scalable applications using modern tools and frameworks.
-
-
-- 🔭 Currently focused on **Flask**, **React**, and **API development**
-- 🧠 Exploring advanced concepts in **C/C++**, **asynchronous programming**, and **software architecture**
-- ⚽ Outside of code, I’m into football, music, and storytelling through film
-=======
-- 💻 Currently mastering: **Software Engineering, specializing in Back-end Development**
-- 🛠️ Languages I speak: **Python**, **JavaScript**, **C**, and a bit of **Bash**
-- 🧠 Always learning: **Flask**, **React**, **APIs**, **SQL**, and the art of *clean code*
-- 🧩 Coding Philosophy: *“Keep it simple, make it powerful”*
-- 🕹️ Side quests: Watching epic dramas, vibing to dope beats, and catching football matches
-
-
----
-
-### 🧰 Tech Stack
-
-**Languages**  
-`Python` • `JavaScript` • `C` • `Bash` • `HTML/CSS`
-
-**Frameworks & Tools**  
-`Flask` • `React` • `Node.js` • `Git` • `Linux` • `SQLite` • `VS Code`  
-
-**Currently Learning**  
-`Docker` • `JWT Authentication` • `MongoDB` • `Advanced React Patterns`
-
----
-
-### 📌 Featured Projects
-
-- **[Mace](https://github.com/Byte-Master63/mace)**  
-  Modern asynchronous tools in C++ with an actor-based RPC system
-
-- **[Personal Blog](https://bytemaster.github.io)**  
-  My dev journal, project breakdowns, and thoughts on software, tech, and learning
-
-- **[Dev Setup](https://github.com/Byte-Master63/dev)**  
-  Custom C++ development environment using Boost, scripts, and modular tooling
-
-For more, check out my full list of [repositories →](https://github.com/Byte-Master63?tab=repositories)
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byte-Master63&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Master63&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-- 📧 Email: `thokozanetek@gmail.com`
-- 🌐 Blog: [bytemaster.github.io](https://bytemaster.github.io)
-
-I'm open to internships, collaborations, and opportunities to contribute to impactful software projects.
-
----
-
-<p align="center">
-  <em>“The best way to predict the future is to build it.” – Alan Kay</em>
-</p>
+*Portfolio repository showcasing projects and skills gained from the ALX Software Engineering program. Open to collaboration, freelance projects, and entry-level/full-stack development opportunities.*
 
